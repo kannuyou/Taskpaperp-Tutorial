@@ -80,7 +80,7 @@ Taskpaper 让普通用户望而生畏的另一个点可能是没有 iOS 客户�
 
 TaskPaper 的官方客户端只有 macOS 版，不过能读取 taskpaper 格式文档的应用倒有很多。
 
-从易用性上讲，我更推荐有硬件基础的读者尝试一下 macOS 上的 TaskPaper【改：避免读者困惑；是否官方出品？】。macOS 上的 TaskPaper 预设了合理高效的快捷键，拥有无限可能的 Apple script、JavaScript 和 api 拓展。
+从易用性上讲，我更推荐有硬件基础的读者尝试一下 macOS 上官方出品的 [TaskPaper](https://www.taskpaper.com)。macOS 上的 TaskPaper 预设了合理高效的快捷键，拥有无限可能的 Apple script、JavaScript 和 api 拓展。
 
 在其他桌面平台上使用 TaskPaper 管理任务未尝不可，但是你需要稍作一些配置，不像 macOS 上「开箱即用」；而移动设备上的 TaskPaper 客户端则因为硬件的先天条件，无缘快捷键之便利。不过这些没有动摇 TaskPaper 最根本的属性——纯文本，而这恰恰是它强大之处。
 
