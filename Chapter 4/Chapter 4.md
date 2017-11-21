@@ -82,7 +82,7 @@ Drafts 是一款强大的应用，但有的读者不一定用得上。如果只�
 
 【Inbox】
 
-在此【】下载这个 Workflow，里面的文件路径请填写你的 taskpaper 文件所在路径。默认是 iCloud，但是 Dropbox 也支持，使用 Editorial 的用户请选择后者。配置好后看看运行效果：
+[在此](https://workflow.is/workflows/45f1b64dbdf24d5fb21ced43fccd4095)下载这个 Workflow，里面的文件路径请填写你的 taskpaper 文件所在路径。默认是 iCloud，但是 Dropbox 也支持，使用 Editorial 的用户请选择后者。配置好后看看运行效果：
 
 【append】
 
@@ -115,7 +115,7 @@ TaskPaper & Siri 在电脑上使用起来也不错。我在工作间隔会做几
 
 ### Workflow 语音输入任务
 
-从 Siri 到提醒事项，再打开电脑、导入 TaskPaper，可能对于部分用户来说繁琐了一些。那么，就借助语音输入直接往 TaskPaper 里添加任务吧。我们用到的工具是 Workflow，你可以在这里【】下载这个动作。
+从 Siri 到提醒事项，再打开电脑、导入 TaskPaper，可能对于部分用户来说繁琐了一些。那么，就借助语音输入直接往 TaskPaper 里添加任务吧。我们用到的工具是 Workflow，你可以在[这里](https://workflow.is/workflows/995aa28c9d524de6aed552e60c407b7b)下载这个动作。
 
 启动该 Workflow 之后，说出自己一条任务，比如「明天晚上十点去抢购处理品面包」，然后按下停止录音，任务就 Append（在文档末尾添加）到 TaskPaper 文件里了。
 
