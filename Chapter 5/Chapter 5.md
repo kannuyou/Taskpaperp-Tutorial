@@ -1,4 +1,4 @@
-# 第五章：批量操作、脚本与复杂项目
+# 第五章：批量操作、自动化与复杂项目
 
 >Simple things should be simple, complex things should be possible.
 >——Alan Kay
