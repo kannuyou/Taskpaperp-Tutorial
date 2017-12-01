@@ -270,7 +270,7 @@ MindNode 同时也是一个全能的格式转换工具，可以把 TaskPaper 生
 
 【打印】
 
-桌面端拥有更丰富的自定义选项，能把 StyleSheet 可以直接运用在打印效果上。点击红框所示位置，选一个自己喜欢的主题。我为你准备了一套美式清单的 TaskPaper 主题【】，简洁明了，不妨试试。
+桌面端拥有更丰富的自定义选项，能把 StyleSheet 可以直接运用在打印效果上。点击红框所示位置，选一个自己喜欢的主题。我为你准备了一套模仿 GitHub 的 [TaskPaper 主题](https://www.icloud.com/iclouddrive/0pv8TvB8WrMSQrHHFfy3FNO9Q#github)，简洁明了，不妨试试。里面的代码我做了注释，你可以根据指引随意修改。
 
 【打印主题】
 
