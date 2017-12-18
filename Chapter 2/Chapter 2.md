@@ -4,7 +4,7 @@
 
 名符其实，TaskPaper 兼具文本列表的易用和任务管理的强大。
 
-它本质上就是一个对列表做了优化的文本编辑器，绝大多数操作用快捷键和打字进行更为高效便捷。从本章的基础操作开始，我主要基于这两点展开讲解。
+它本质上就是一个对列表做了优化的文本编辑器，绝大多数操作用快捷键和打字进行更为高效便捷。从本章的基础操作开始，我主要基于这两点展开讲解。【文刀：哪两点？】
 
 【界面】
 
@@ -31,11 +31,7 @@ TaskPaper 的基本元素有四个，任务、项目、标签、备注。各呈�
 
 只要会用这四个元素，TaskPaper 就算入门了。归功于 TaskPaper 的低门槛，我最初没有遇到什么困难就能用它做简单的任务清单。回想起来，我也曾经系统性地学习过 OmniFocus，不幸的是对于当年的我，这类工具过于复杂，起初的几波尝试均以失败告终。我觉得，对于大多数人来说，同样强大的工具，总是更容易上手的那一款更受欢迎一些。
 
-> Keep a to-do list……A real one. One that you actually use and update throughout the day. It doesn’t need to be fancy, like the getting-things-done task managers — I use TaskPaper, which is essentially a text editor with optimized syntax highlighting for to-do lists, against a text file on Dropbox.
->
-> （做个你真正在用的、每天更新的清单，它不用像 GTD 管理工具那么酷炫——我用的就是对于清单显示方式有优化的 TaskPaper，并把它存在 Dropbox 里）
->
-> ——Marco Arment
+> Keep a to-do list……A real one. One that you actually use and update throughout the day. It doesn’t need to be fancy, like the getting-things-done task managers — I use TaskPaper, which is essentially a text editor with optimized syntax highlighting for to-do lists, against a text file on Dropbox.（做个你真正在用的、每天更新的清单，它不用像 GTD 管理工具那么酷炫——我用的就是对于清单显示方式有优化的 TaskPaper，并把它存在 Dropbox 里）—— Marco Arment
 
 ### 任务
 
@@ -111,7 +107,7 @@ TaskPaper 的标签是纯文字的，也许你会暗自抱怨：居然还要打�
 
 【两种 done】
 
-#### `@due`和`@start`
+#### `@due` 和 `@start`
 
 它们分别标注任务的截止日期和开始日期。单独的 `@due` 或者 `@start` 没有什么意义，它们需要配合一个时间点才能起到指示任务具体执行时间的目的。**TaskPaper 用 ISO 8601 格式的文本存储时间，你不用搞懂这具体是什么，只需要知道这是一个超棒的通用时间标准，在最后几章的实例中你会看见 TaskPaper 如何导出时间到别的应用里。**但是用该格式输入完整的文本并不方便，为此，你可以使用 TaskPaper 预设的日期 & 时间语法。日期、时间和 `@due` 或 `@start` 标签组合起来就是这样：
 
@@ -144,7 +140,7 @@ TaskPaper 的日期和月份可以使用缩写，例如 Saturday 缩写为 Sat�
 
 你一定会想，为什么不能兼得相对时间的简单与绝对时间的精确呢？当然可以！有一个脚本能一键把这些模棱的相对时间转为绝对时间。不过，具体就留到第四章再说了。
 
-**📦一种快速添加日期的方法**
+#### 📦 一种快速添加日期的方法
 
 考虑到在中文输入法下手工键入半角括号是一件痛苦的事情，我再介绍一个插入日期的好办法。使用快捷键 `⌘Command+T` 唤出「Tag With」界面，紧接着输入 `d` 按下回车，如果你没有其他 `d` 开头的标签，此时 `@due` 已经跃然屏上，并且弹出一个日历界面等你选日期了。用方向键指定一个日子，再次回车敲定。
 
@@ -205,7 +201,7 @@ Daily Plan 里的任务，不是起床后从天而降、凭空捏造的，它们
 
 我也在床头放了铅笔和便笺，不过还有别的目的，即减少对睡眠的干扰，不愿点亮手机屏幕记录任务。灵感一来，就摸黑草草记下关键词，醒来后，这些堪比魏晋书法作品的纸片，就成了我的一大任务来源。接下来不是机械地把任务输入电脑，而是开始解构任务。
 
-我一般用简单的「英文动词 + 名词」结构，像`- Search：《拿摄影机的人》`，这样便于稍后搜索任务。TaskPaper 毕竟是外国人的作品，对英文优化更加，搜索的时候打一个 `S` 就能看到所有「S」打头的任务，但用中文的话需要打一个字。积少成多，长期使用中我发现简单的英文单词带来的便利还是可观的。读者们可以打开自己在用的任务管理工具，统计一下自己最常用的一些动作，试试用它们做任务的开头——如果你是清单狂人，你也能享受到英文字母的简单。
+我一般用简单的「英文动词 + 名词」结构，像 `- Search：《拿摄影机的人》`，这样便于稍后搜索任务。TaskPaper 毕竟是外国人的作品，对英文优化更加，搜索的时候打一个 `S` 就能看到所有「S」打头的任务，但用中文的话需要打一个字。积少成多，长期使用中我发现简单的英文单词带来的便利还是可观的。读者们可以打开自己在用的任务管理工具，统计一下自己最常用的一些动作，试试用它们做任务的开头——如果你是清单狂人，你也能享受到英文字母的简单。
 
 【Re开头】
 
