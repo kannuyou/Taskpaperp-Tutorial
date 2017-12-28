@@ -306,7 +306,7 @@ function run(input) {
 }
 ```
 
-这个 Services 没有太大制作难度，只是用 JavaScript 获取标题，再和链接组合起来。在这里 [下载](https://github.com/BlackwinMin/sspai-sample-script/blob/master/插入将来日期.workflow.zip) 安装，它就会出现在右键菜单里。如果需要绑定快捷键，请移步键盘设置：
+这个 Services 没有太大制作难度，只是用 JavaScript 获取标题，再和链接组合起来。在这里 [下载](https://github.com/BlackwinMin/sspai-sample-script/blob/master/创建链接.workflow.zip) 安装，它就会出现在右键菜单里。如果需要绑定快捷键，请移步键盘设置：
 
 【33-快捷键】
 
