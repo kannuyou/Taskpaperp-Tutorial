@@ -270,7 +270,7 @@ MindNode 同时也是一个全能的格式转换工具，可以把 TaskPaper 生
 
 【29-打印】
 
-桌面端拥有更丰富的自定义选项，能把 StyleSheet 可以直接运用在打印效果上。点击红框所示位置，选一个自己喜欢的主题。我为你准备了一套模仿 GitHub 的 [TaskPaper 主题](https://www.icloud.com/iclouddrive/0pv8TvB8WrMSQrHHFfy3FNO9Q#github)，简洁明了，不妨试试。里面的代码我做了注释，你可以根据指引随意修改（注：移动端的 TaskMator 可以通过自带的外观设置自定义样式，但不能通用 StyleSheet 配置文件）。
+桌面端拥有更丰富的自定义选项，能把 StyleSheet 可以直接运用在打印效果上。点击红框所示位置，选一个自己喜欢的主题。我为你准备了一套模仿 GitHub 的 [TaskPaper 主题](https://github.com/BlackwinMin/sspai-sample-script/blob/master/github主题配色.less)，简洁明了，不妨试试。里面的代码我做了注释，你可以根据指引随意修改（注：移动端的 TaskMator 可以通过自带的外观设置自定义样式，但不能通用 StyleSheet 配置文件）。
 
 使用纸笔和追求效率并不矛盾。我们批评的是纸笔的重复劳动，而打钩这个简单的动作，在纸上或智能设备上进行并没有巨大的差异。何况一些情况下，纸质清单更有优势：比如，你身处一个不宜使用智能设备的严肃会议，或者参加一次户外定向运动，此时手机操作不便。纸笔纵使原始，此时倒合时宜。
 
@@ -306,7 +306,7 @@ function run(input) {
 }
 ```
 
-这个 Services 没有太大制作难度，只是用 JavaScript 获取标题，再和链接组合起来，所以我把流程图和代码直接贴上，大家复制好自制即可，它就会出现在右键菜单里。如果需要绑定快捷键，请移步键盘设置：
+这个 Services 没有太大制作难度，只是用 JavaScript 获取标题，再和链接组合起来。在这里 [下载](https://github.com/BlackwinMin/sspai-sample-script/blob/master/创建链接.workflow.zip) 安装，它就会出现在右键菜单里。如果需要绑定快捷键，请移步键盘设置：
 
 【33-快捷键】
 

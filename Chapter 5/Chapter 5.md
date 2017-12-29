@@ -41,7 +41,7 @@
 
 在 TaskPaper 里，我们更倾向于使用 `tomorrow`、`next Mon` 这样口语化的表达。但是我在第二章里就提到，毕竟 TaskPaper 只是在读取纯文本文件，不会自行修改里面的数据，也就没法随着时间推移自动改写相对时间了。
 
-不过借助 Automator+shell，可以只用最少的输入量，快速插入 ISO 8601 格式的日期。我这里有一个做好的 [Automator Service](https://www.icloud.com/iclouddrive/0ASqBgxzdhb6__rrJ3R07j6KQ)，下载安装后请为它设置一个快捷键，以便随时调用。
+不过借助 Automator+shell，可以只用最少的输入量，快速插入 ISO 8601 格式的日期。我这里有一个做好的 [Automator Service](https://github.com/BlackwinMin/sspai-sample-script/blob/master/插入将来日期.workflow.zip)，下载安装后请为它设置一个快捷键，以便随时调用。
 
 通过自定义快捷键打开它之后，会出现一个输入框，如果我想把任务安排到明天，就填入 `+1d` ，意味「一天后」，之后 Automator Service 会自动运行，插入一段标准格式的日期。同样的，输入 `+1w` 、`+1m` 就可以得到下周、次月的日期。
 
@@ -228,7 +228,7 @@ Todoist 创始人就喜欢把稍后度文章添加进自己的待办事项，他
 
 【18-TaskPaper 脚本文件夹】
 
-把[这个脚本](https://www.icloud.com/iclouddrive/04qtvFPbjYc_RiF0rwTrxA6XQ#to_tomorrow)放进去，然后打开一个 TaskPaper 任务列表，在菜单栏-脚本菜单里点击刚刚添加的脚本（默认在下半部分），就可以转换标签了。
+把 [这个脚本](https://github.com/BlackwinMin/sspai-sample-script/blob/master/to_tomorrow.scpt) 放进去，然后打开一个 TaskPaper 任务列表，在菜单栏-脚本菜单里点击刚刚添加的脚本（默认在下半部分），就可以转换标签了。
 
 【19-延后任务】
 
